@@ -1,5 +1,5 @@
 # thermometer
-Arduino Project for a Prototype Thermometer
+Arduino Project (Thermometer Prototype)
 
 ---
 
