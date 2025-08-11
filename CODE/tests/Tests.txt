@@ -1,0 +1,1 @@
+Codes zum Testen der einzelnen Komponenten (teilweise von den 15 Beispielen aus 4A übernommen)
